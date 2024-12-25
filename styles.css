@@ -61,31 +61,30 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('hero-bg.jpg') no-repeat center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('img/newbackground.jpg') no-repeat center/cover;
     color: #fff;
+    padding: 200px 20px;
+    background-size: cover;
+}
+
+.underhero {
     text-align: center;
-    padding: 100px 20px;
 }
 
-.hero h2 {
-    font-size: 36px;
-    font-weight: 600;
-    margin-bottom: 10px;
-}
-
-.hero p {
-    font-size: 18px;
-    margin-bottom: 20px;
+.underhero p {
+    margin-top: -20px;
 }
 
 .cta-button {
     background: #4CAF50;
     color: #fff;
-    padding: 10px 20px;
-    border-radius: 5px;
+    padding: 10px 10px;
+    border-radius: 10px;
     text-decoration: none;
     font-weight: 600;
     transition: background 0.3s;
+    display: inline-block;
+    margin: 0 auto;
 }
 
 .cta-button:hover {
