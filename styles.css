@@ -35,7 +35,7 @@ body {
 .sticky-header .logo {
     font-size: 24px;
     font-weight: 600;
-    color: #4CAF50;
+    color: #21343e;
 }
 
 .sticky-header nav ul {
@@ -56,7 +56,7 @@ body {
 }
 
 .sticky-header nav ul li a:hover {
-    color: #4CAF50;
+    color: #21343e;
 }
 
 /* Hero Section */
@@ -76,7 +76,7 @@ body {
 }
 
 .cta-button {
-    background: #4CAF50;
+    background: #21343e;
     color: #fff;
     padding: 10px 10px;
     border-radius: 10px;
@@ -88,7 +88,7 @@ body {
 }
 
 .cta-button:hover {
-    background: #45a049;
+    background: #21343e;
 }
 
 /* Section Styles */
@@ -101,7 +101,7 @@ section {
 }
 
 h2 {
-    color: #4CAF50;
+    color: #21343e;
     margin-bottom: 20px;
 }
 
@@ -147,7 +147,7 @@ h2 {
 }
 
 .add-to-cart {
-    background: #4CAF50;
+    background: #21343e;
     color: #fff;
     padding: 10px;
     border: none;
@@ -157,7 +157,7 @@ h2 {
 }
 
 .add-to-cart:hover {
-    background: #45a049;
+    background: #21343e;
 }
 
 /* Cart Section Styles */
@@ -169,7 +169,7 @@ h2 {
 }
 
 .cart-section h2 {
-    color: #4CAF50; /* Header color */
+    color: #21343e; /* Header color */
     margin-bottom: 20px;
     text-align: center; /* Center the header */
 }
@@ -212,12 +212,12 @@ input[type="email"] {
 
 input[type="text"]:focus,
 input[type="email"]:focus {
-    border-color: #4CAF50; /* Change border color on focus */
+    border-color: #21343e; /* Change border color on focus */
     outline: none; /* Remove default outline */
 }
 
 .checkout-button {
-    background: #4CAF50; /* Green background */
+    background: #21343e; /* Green background */
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -230,7 +230,7 @@ input[type="email"]:focus {
 }
 
 .checkout-button:hover {
-    background: #45a049; /* Darker green on hover */
+    background: #21343e; /* Darker green on hover */
 }
 
 /* Footer Styles */
@@ -269,7 +269,7 @@ input[type="email"]:focus {
 }
 
 .footer-column ul li a:hover {
-    color: #4CAF50;
+    color: #21343e;
 }
 
 /* Smooth Scrolling for href */
@@ -287,7 +287,7 @@ a[href^="#"] {
 }
 
 .send-section h2 {
-    color: #4CAF50; /* Header color */
+    color: #21343e; /* Header color */
     margin-bottom: 20px;
     text-align: center; /* Center the header */
 }
@@ -315,7 +315,7 @@ a[href^="#"] {
 }
 
 .submit-button {
-    background: #4CAF50; /* Green background */
+    background: #21343e; /* Green background */
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -327,7 +327,7 @@ a[href^="#"] {
 }
 
 .submit-button:hover {
-    background: #45a049; /* Darker green on hover */
+    background: #21343e; /* Darker green on hover */
 }
 
 /* Input Fields Styling */
@@ -343,7 +343,7 @@ input[type="tel"] {
 }
 
 input[type="tel"]:focus {
-    border-color: #4CAF50; /* Change border color on focus */
+    border-color: #21343e; /* Change border color on focus */
     outline: none; /* Remove default outline */
 }
 
@@ -414,7 +414,7 @@ input[type="tel"] {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background-color: #4CAF50;
+    background-color: #21343e;
     color: white;
     border: none;
     border-radius: 5px;
@@ -425,7 +425,7 @@ input[type="tel"] {
 }
 
 .back-to-top:hover {
-    background-color: #45a049; /* Darker green on hover */
+    background-color: #21343e; /* Darker green on hover */
 }
 
 .loading-spinner {
